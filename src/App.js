@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    // comentario linea C1
     <div className="App">
       {/* COMENTARIO LINEA C2 */}
       <header className="App-header">
